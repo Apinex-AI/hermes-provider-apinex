@@ -1,0 +1,13 @@
+name: apinex
+kind: model-provider
+version: 0.1.0
+description: APInex providers for Hermes. Claude models over APInex's native Anthropic Messages API (apinex), GPT, Gemini, DeepSeek, GLM, Qwen, Kimi, Grok and Free-tier chat models over its OpenAI-compatible API (apinex-openai); one API key for both.
+author: APInex
+license: MIT
+homepage: https://apinex.bond/?utm_source=hermes&utm_medium=plugin
+requires_hermes: ">=0.21.5"
+requires_env:
+  - name: APINEX_API_KEY
+    description: "APInex API key (sk-apx-...)"
+    url: "https://apinex.bond/integrations/hermes?utm_source=hermes&utm_medium=plugin"
+    secret: true
