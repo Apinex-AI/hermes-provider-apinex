@@ -27,6 +27,8 @@ Maintained by [APInex](https://apinex.bond/?utm_source=hermes&utm_medium=plugin)
 
 ## What you get
 
+![APInex Dual Providers Architecture — Native Claude /v1/messages + OpenAI Gateway /v1](https://raw.githubusercontent.com/Apinex-AI/hermes-provider-apinex/d838363f40c8c2ac3d0254c69c43cef11f9dec79/assets/screenshot-01.png)
+
 - `--provider apinex` and `--provider apinex-openai`, both providers in `hermes model` and `/model`, `hermes setup` and `hermes doctor` checks, all wired automatically by Hermes from the provider profiles.
 - `/model` pickers built from your account's live model list (`GET https://api.apinex.bond/v1/models`):
   - **5 Claude models** under `apinex` (`claude-sonnet-5.5`, `claude-opus-5.5`, `claude-fable-5.1`, `free/claude-sonnet-4.6`, `free/claude-opus-4.6`).
@@ -156,6 +158,8 @@ Plus 9 additional `free/*` routes (`free/deepseek-v4-flash-0731`, `free/deepseek
 ---
 
 ## Companion APInex skills & ecosystem for Hermes
+
+![APInex Ecosystem — 46 AI Models & 8 Built-in HTTP Tools on One API Key](https://raw.githubusercontent.com/Apinex-AI/hermes-provider-apinex/d838363f40c8c2ac3d0254c69c43cef11f9dec79/assets/screenshot-02.png)
 
 Your `APINEX_API_KEY` also unlocks 8 HTTP agent tools on `https://api.apinex.bond/v1/tools/*`. You can discover and install the official APInex workflow skills directly in Hermes via `well-known`:
 
