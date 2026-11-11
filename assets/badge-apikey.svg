@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="142" height="32" viewBox="0 0 142 32" fill="none">
+  <rect x="0.75" y="0.75" width="140.5" height="30.5" rx="8" fill="#0B101B"/>
+  <rect x="0.75" y="0.75" width="140.5" height="30.5" rx="8" fill="rgba(245,158,11,0.15)"/>
+  <rect x="0.75" y="0.75" width="140.5" height="30.5" rx="8" stroke="rgba(251,191,36,0.5)" stroke-width="1.2"/>
+  <g transform="translate(11, 8)">
+    <circle cx="5.5" cy="8" r="3.5" stroke="#FBBF24" stroke-width="1.6"/>
+    <path d="M9 8H15M12.5 8V11M14.5 8V10.5" stroke="#FBBF24" stroke-width="1.6" stroke-linecap="round"/>
+  </g>
+  <text x="33" y="20.5" fill="#F9FAFB" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" letter-spacing="0.01em">Get API Key</text>
+</svg>

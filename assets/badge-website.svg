@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="32" viewBox="0 0 132 32" fill="none">
+  <rect x="0.75" y="0.75" width="130.5" height="30.5" rx="8" fill="#0B101B"/>
+  <rect x="0.75" y="0.75" width="130.5" height="30.5" rx="8" fill="rgba(16,185,129,0.14)"/>
+  <rect x="0.75" y="0.75" width="130.5" height="30.5" rx="8" stroke="rgba(52,211,153,0.45)" stroke-width="1.2"/>
+  <g transform="translate(11, 8)">
+    <circle cx="8" cy="8" r="6.8" stroke="#34D399" stroke-width="1.5"/>
+    <ellipse cx="8" cy="8" rx="3.2" ry="6.8" stroke="#34D399" stroke-width="1.4"/>
+    <line x1="1.5" y1="8" x2="14.5" y2="8" stroke="#34D399" stroke-width="1.4"/>
+  </g>
+  <text x="33" y="20.5" fill="#F9FAFB" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" letter-spacing="0.01em">apinex.bond</text>
+</svg>
